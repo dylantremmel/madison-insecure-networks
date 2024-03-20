@@ -1,4 +1,4 @@
 # madison-insecure-networks
 ## Source: Wigle.net 
 
-This data set presents the routers with either no or non-secure encryption in Madison, New Jersey. Hackers can exploit weaknesses in router configuration and lack of encryption to launch widespread attacks that are time consuming and expensive to reconcile. Having a lot of insecure routers put Madison's residents and businesses at risk, so it's important to share this data so officials can enforce policies that require people to update or replace their routers.
+This data set shows the routers in Madison, New Jersey, that either have no encryption or use non-secure encryption. When routers aren't properly secured, hackers can easily exploit them, leading to widespread attacks that are both time-consuming and costly to fix. With many insecure routers in Madison, both residents and businesses are vulnerable to these risks. Sharing this data is crucial so that officials can implement policies that compel people to update or replace their routers, thereby reducing the threat.
